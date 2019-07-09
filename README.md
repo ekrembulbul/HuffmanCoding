@@ -1,2 +1,2 @@
 # HuffmanCoding
-Huffman Coding
+Huffman Coding C++
